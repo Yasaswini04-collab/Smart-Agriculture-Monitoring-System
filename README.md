@@ -1,5 +1,5 @@
 # Smart-Agriculture-Monitoring-System
-IoT-based smart agriculture monitoring system using ESP32, DHT22, and soil moisture sensor.
+IoT-based Smart Agriculture Monitoring System using ESP32, DHT22, and Soil moisture sensor.
 
 # Title of the Project
 Design and Implementation of an IoT-Based Smart Agriculture Monitoring System
